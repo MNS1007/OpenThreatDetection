@@ -1,6 +1,6 @@
 ### Prerequisites
 
-- The system must be Linux-based and support GPU for running the backend.
+- The system must be Linux-based and support GPU for running the backe
 - For running on a Windows PC, set up WSL: [WSL Installation Guide](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 ### Clone Repository with Large Files

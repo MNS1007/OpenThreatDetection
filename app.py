@@ -3,11 +3,7 @@ import signal
 from flask import Flask, request, render_template,send_from_directory
 from flask_restful import Api, Resource
 from threading import Thread
-import multiprocessing as mp
-import subprocess
-from test.test import test_bp
-from camera.routes import camera_bp
-from event.routes import event_bp
+
 
 from extenstions import db
 
